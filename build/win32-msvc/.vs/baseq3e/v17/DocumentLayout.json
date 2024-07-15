@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\baseq3a-master\\build\\win32-msvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25F3B624-E060-4DAD-93D6-479AB6CD782F}|game.vcxproj|D:\\Downloads\\baseq3a-master\\code\\game\\g_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F3B624-E060-4DAD-93D6-479AB6CD782F}|game.vcxproj|D:\\Downloads\\baseq3a-master\\code\\game\\g_rotation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "g_main.c",
+              "DocumentMoniker": "D:\\Downloads\\baseq3a-master\\code\\game\\g_main.c",
+              "RelativeDocumentMoniker": "..\\..\\code\\game\\g_main.c",
+              "ToolTip": "D:\\Downloads\\baseq3a-master\\code\\game\\g_main.c",
+              "RelativeToolTip": "..\\..\\code\\game\\g_main.c",
+              "ViewState": "AQIAAA8IAAAAAAAAAAArwB8IAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-15T03:11:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "g_rotation.c",
+              "DocumentMoniker": "D:\\Downloads\\baseq3a-master\\code\\game\\g_rotation.c",
+              "RelativeDocumentMoniker": "..\\..\\code\\game\\g_rotation.c",
+              "ToolTip": "D:\\Downloads\\baseq3a-master\\code\\game\\g_rotation.c",
+              "RelativeToolTip": "..\\..\\code\\game\\g_rotation.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-15T03:10:41.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
